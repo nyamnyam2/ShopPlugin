@@ -1,0 +1,6 @@
+name: ShopPlugin
+main: skh6075\ShopPlugin\ShopPlugin
+author: AvasKr
+api: 3.10.0
+version: 1.0.0
+website: https://github.com/GodVas
